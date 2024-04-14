@@ -17,18 +17,16 @@ This application is designed to load and display images in a scrollable grid. It
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/isandeepj/ImageGridDemo.git
-  ```
+```bash
+ git clone https://github.com/isandeepj/ImageGridDemo.git
+```
 2. Navigate to the project directory
-   ```bash
-   cd ImageGridDemo
-  ```
-  
+```bash
+ cd ImageGridDemo
+```
 3. Open the project in Xcode
-   ```bash
-   open ImageGridDemo.xcodeproj
-  ```
-  
+```bash
+ open ImageGridDemo.xcodeproj
+```  
 4. Select a compatible iOS simulator as the target device in Xcode.
 5. Build and run the project by clicking the "Run" button in Xcode.
